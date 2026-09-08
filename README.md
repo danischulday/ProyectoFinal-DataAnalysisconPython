@@ -2,7 +2,7 @@
 Proyecto final para el Curso de Data Analysis con Python.
 
 Descripción del proyecto
-Supongamos que nuestro objetivo como analistas de datos es ayudar a una editorial a decidir en qué libros invertir marketing, pero para esto necesitamos definir qué es lo que hace que un libro pueda ser exitoso. Tenemos por un lado libros que tienen un rating muy alto, pero una baja cantidad de reseñas (son poco conocidos) y también libros con miles de reseñas pero un rating más bien mediocre (populares, no necesariamente "buenos"). Entender esta diferencia nos ayudará a hacer mejores decisiones al momento de la inversión.
+Mi objetivo como analista de datos es asesorar a una editorial en su decisión sobre en qué libros invertir marketing, pero para esto es necesario definir qué es lo que hace que un libro pueda ser exitoso. Existen por un lado libros que tienen un rating muy alto, pero una baja cantidad de reseñas (son poco conocidos) y también libros con miles de reseñas pero un rating más bien mediocre (populares, no necesariamente "buenos"). Entender esta diferencia nos ayudará a hacer mejores decisiones al momento de la inversión.
 
 A tener en cuenta en el análisis:
 
