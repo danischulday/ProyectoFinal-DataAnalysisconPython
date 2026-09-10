@@ -42,7 +42,6 @@ El procesamiento de datos implementado en Python incluye:
   * Creación del ratio de compromiso (`review_ratio`).
   * Agrupación de métricas históricas por autor.
 
-## KPIs:
 
 ## Hallazgos realizados:
 1. Criterio de Calidad Interno (El Estándar Goodreads)
